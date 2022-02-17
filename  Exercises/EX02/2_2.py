@@ -1,4 +1,4 @@
-
+# Create hours & rate input to detemine pay
 
 hours = input('Enter Hours:', )
 rate = input('Enter Rate:', )
